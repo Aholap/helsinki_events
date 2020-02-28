@@ -20,20 +20,4 @@ app.use('/events', rout)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 module.exports = app
