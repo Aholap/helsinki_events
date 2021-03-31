@@ -9,5 +9,10 @@ module.exports = {
   node: {
     fs: 'empty',
     net:'empty'
-  }
+  },
+  devServer: {
+    compress: true,
+    disableHostCheck: true,   
+
+ }   
 };
